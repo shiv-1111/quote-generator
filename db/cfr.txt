@@ -1,0 +1,1 @@
+{"username":"cfr","email":"shivashishbhaskar@xyz.com","password":"123456"}
